@@ -1,0 +1,55 @@
+const teamDetails = [
+  {
+    id: 1,
+    img: '/images/1.jpeg',
+    name: 'FAY',
+    position: 'Software Engineer',
+    phone: '544750507',
+    email: 'FAY09@example.com',
+  },
+  {
+    id: 2,
+    img: '/images/2.jpeg',
+    name: 'FAY SAMI',
+    position: 'Project Manager',
+    phone: '0544750507',
+    email: 'jackson@example.com',
+  },
+  {
+    id: 3,
+    img: '/images/3.jpg',
+    name: 'FAY ALTD',
+    position: 'Graphic Designer',
+    phone: '544750507',
+    email: 'grace@example.com',
+    website: 'gracemiller.design',
+  },
+  {
+    id: 4,
+    img: '/images/4.jpeg',
+    name: 'FAY',
+    position: 'Marketing Specialist',
+    phone: '+1 555-4321',
+    email: 'isaac@example.com',
+  },
+  {
+    id: 5,
+    img: '/images/5.jpg',
+    name: 'FAYe',
+    position: 'CEO',
+    phone: '+1 555-8765',
+    email: 'FAY@example.com',
+    website: 'averywhite.com',
+  },
+  {
+    id: 6,
+    img: '/images/6.jpeg',
+    name: 'FAY ALRDDADI',
+    position: 'Frontend Developer',
+    phone: '966544750507',
+    email: 'FA@GMAIL.COM',
+    website: 'ellarobinson.dev',
+  },
+];
+
+export default teamDetails;
